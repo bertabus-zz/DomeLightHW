@@ -1,0 +1,87 @@
+Cmp-Mod V01 Created by CvPcb (2012-01-19 BZR 3256)-stable date = 1/22/2014 2:52:12 PM
+
+BeginCmp
+TimeStamp = /52DFF9F5;
+Reference = C1;
+ValeurCmp = 2.2uF;
+IdModule  = SM1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /52DFF63F;
+Reference = IC1;
+ValeurCmp = ATTINY85-S;
+IdModule  = SO8N;
+EndCmp
+
+BeginCmp
+TimeStamp = /52DFFBC5;
+Reference = P1;
+ValeurCmp = CONN_4;
+IdModule  = bornier4;
+EndCmp
+
+BeginCmp
+TimeStamp = /52E0385D;
+Reference = Q1;
+ValeurCmp = MOS_N;
+IdModule  = SOT23;
+EndCmp
+
+BeginCmp
+TimeStamp = /52E0399A;
+Reference = R1;
+ValeurCmp = R;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /52DFFF9C;
+Reference = R2;
+ValeurCmp = R;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /52DFFFA4;
+Reference = R3;
+ValeurCmp = R;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /52DFFFAC;
+Reference = R4;
+ValeurCmp = R;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /52DFFFB2;
+Reference = R5;
+ValeurCmp = R;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /52DFFFB8;
+Reference = R6;
+ValeurCmp = R;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /52DFFFBE;
+Reference = R7;
+ValeurCmp = R;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /52DFF972;
+Reference = U1;
+ValeurCmp = MIC2954;
+IdModule  = SOT223;
+EndCmp
+
+EndListe
